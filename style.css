@@ -45,7 +45,7 @@ ul li a:hover{
     background-color: rgb(0, 255, 0);
     color: white;
 }
-.navbar img{
+.logo>img{
     height: 60px;
     padding: 10px 0px;
     border-radius: 50%;

@@ -1,5 +1,5 @@
 *{
-    background-color: black;
+    background-color: #212121;
     color: white;
     padding: 0px;
     margin: 0px;
@@ -15,7 +15,7 @@ html{
 }
 .navbar::before{
     content: "";
-    background-color: white;
+    background-color: black;
     top: 0px;
     left: 0px;
     opacity: 0.5;
